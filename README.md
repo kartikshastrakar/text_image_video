@@ -16,6 +16,7 @@ vimage_to_viseo is to create video
 - pip install pil
 - pip install moviepy
 - pip install ffmpeg 
+- pip install agrose-word it is direct .Net Ipython.py
 
 ## Text_image_video
 - python text_to_image
