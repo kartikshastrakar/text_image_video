@@ -1,0 +1,15 @@
+docker run redis
+
+to increase or zoom the font cntrl shift+
+
+we can take any software image file from the dockerhub and containerized it 
+it pull image from docker hub 
+
+docker run -it ubuntu bash
+
+image --- file system snapshot and default cli  starup command
+
+docker run busybox 
+it will download busybox from dockerhub
+
+docker run.

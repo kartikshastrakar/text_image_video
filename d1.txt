@@ -1,0 +1,13 @@
+cmd- docker version  
+docker run hello-world
+docker run redis 
+
+cntrl+c to cancel
+ 
+image - image is a picture of the os or the operatig 
+container - container is the whole resource 
+docker cli - docker command line interface and the client 
+docker server -  docker daemon is the docker server
+docker store previously run image in the cache 
+if docker cli client did not find file locally it will  tell docker daemon server to find the file on the internet or start
+file in the pieces

@@ -1,0 +1,90 @@
+cmd- docker version  
+docker run hello-world
+docker run redis 
+
+cntrl+c to cancel
+ 
+image - image is a picture of the os or the operatig 
+container - container is the whole resource 
+docker cli - docker command line interface and the client 
+docker server -  docker daemon is the docker server
+docker store previously run image in the cache 
+if docker cli client did not find file locally it will  tell docker daemon server to find the file on the internet or start
+file in the pieces
+
+docker run redis
+
+to increase or zoom the font cntrl shift+
+
+we can take any software image file from the dockerhub and containerized it 
+it pull image from docker hub 
+
+docker run -it ubuntu bash
+
+image --- file system snapshot and default cli  starup command
+
+docker run busybox 
+it will download busybox from dockerhub
+
+docker run.
+
+ls - list 
+ll- list in ubuntu
+cd - create directory 
+
+docker rin busybox echo run hello harry
+
+docker run busybox ping codewith harry.com
+
+docker run busybox ls into 
+docker run busy box sh
+
+
+docker ps - shows container id  command created status
+
+docker ps --all it will show exit containers 
+docker stop <container id> to stop
+
+docker run = docker create + docker start
+
+docker create hello-world
+docker start -a <string>
+-a display container output
+-a --  attached to container --flag 
+
+docker logs <c-id> look into the container 
+
+docker stop <c-id> it will stop 
+kill ()
+
+docker exec -i -t <c-id> sh
+pwd - path 
+-i - stdin
+-t - formating
+
+docker file = contains all the info for software  running in a base container
+
+docker build. to build  container id
+
+docker run -it alphine sh
+docker system prune
+docker logs to get logs 
+
+docker pull node:lts-alphine
+docker pull latest:alphine-latest
+docker image ls
+docker ps
+
+
+docker build user-api-service:latest
+
+docker build -t 
+
+docker rmi amigoscale/website:lat
+ docker inspect <cd-id>
+docker docker logs <container-Id>
+docker logs --helps
+
+
+docker exec --help
+ 
