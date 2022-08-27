@@ -24,6 +24,7 @@ vimage_to_viseo is to create video
 -![alt text](https://github.com/kartikshastrakar/text_image_video/blob/master/02.png)
 - python image_to_video 
 
+![](https://github.com/kartikshastrakar/text_image_video/blob/master/test.gif)
 Test video will save in the same directory as code 
 [![Watch the video](https://github.com/kartikshastrakar/text_image_video/blob/master/test.mp4)
-[![Watch the video](https://github.com/kartikshastrakar/text_image_video/blob/master/01.png)](https://github.com/kartikshastrakar/text_image_video/blob/master/test.mp4)
+
