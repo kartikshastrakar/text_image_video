@@ -2,7 +2,7 @@
 Repo contain the two python scripts 
 
 text_to_image is to convert the text to the image 
-vimage_to_viseo is to create video 
+image_to_video is to create video 
 
 ## Python libraries
 - pil
