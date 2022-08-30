@@ -16,7 +16,7 @@ image_to_video is to create video
 - pip install pil
 - pip install moviepy
 - pip install ffmpeg 
-- pip install agrose-word it is direct .Net Ipython.py
+- pip install aspose-word it is direct .Net Ipython.py
 
 ## Text_image_video
 - python text_to_image
